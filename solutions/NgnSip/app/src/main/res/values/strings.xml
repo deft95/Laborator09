@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NgnSip</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="registered">Registered</string>
+    <string name="unregistered">Unregistered</string>
+    <string name="test_number">sip:thetestcall@getonsip.com</string>
+    <string name="make_call">Make Call</string>
+    <string name="hang_up_call">Hang Up Call</string>
+    <string name="no_call">No Call</string>
+    <string name="calling">Calling</string>
+    <string name="in_call">In Call</string>
+    <string name="incoming_call">Incoming Call</string>
+    <string name="dtmf">DTMF</string>
+    <string name="codes">09#</string>
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="none"></string>
+</resources>
